@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Email</string>
+    <string name="send">Send</string>
+    <string name="enter_subject">enter subject</string>
+    <string name="enter_body">enter body</string>
+    <string name="enter_email_address">enter email address</string>
+    <string name="please_enter_body">please enter body</string>
+    <string name="please_enter_subject">please enter subject</string>
+    <string name="please_enter_address">Please enter address</string>
+</resources>
